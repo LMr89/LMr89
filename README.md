@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://pbs.twimg.com/media/FBk1cgFWUAQj3oj?format=png&name=small" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LMr89&icon=1&color=1)](https://visitcount.itsvg.in)
